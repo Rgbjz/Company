@@ -1,0 +1,52 @@
+{
+  "Index": {
+    "title": "IT Company - Innovative Solutions",
+    "description": "We build the future through code."
+  },
+  "Hero": {
+    "title1": "WEB DEV.",
+    "title2": "SEO.",
+    "title3": "DESIGN.",
+    "description": "We create digital ecosystems that transform brands. High-performance code, intelligent SEO, and visual perfection in one solution.",
+    "btnPrimary": "Get an estimate",
+    "btnSecondary": "Portfolio"
+  },
+  "TechStack": {
+    "title": "Technology",
+    "titleHighlight": "Stack",
+    "ui_ux": "UI/UX Design",
+    "frontend": "FrontEnd",
+    "backend": "BackEnd",
+    "devops": "DevOps",
+    "seo": "SEO Optimization",
+    "blockchain": "Blockchain",
+    "badges": {
+      "analytics": "Analytics",
+      "tech_seo": "Tech SEO",
+      "web_vitals": "Web Vitals",
+      "copywriting": "Copywriting",
+      "smart_contracts": "Smart Contracts"
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "Portfolio": {
+    "label": "Portfolio",
+    "title_1": "Projects we are",
+    "title_2": "proud of",
+    "view_all": "View all works",
+    "proj1_title": "Play-to-Earn Telegram Game",
+    "proj1_desc": "Web3 game ranked in the <bold>Top-10 on Telegram</bold>. Developed core mechanics, live multiplayer, and a complex in-game economy. Integrated TON for trading, deposits, and token withdrawals.",
+    "proj2_title": "Auto Leasing Platform",
+    "proj2_desc": "Swiss auto leasing platform. Built a B2C funnel (rate calculator, e-signature, KYC) and a fully-featured B2B back-office for dealers and banks.",
+    "proj3_title": "Multilingual E-commerce",
+    "proj3_desc": "Bilingual e-commerce platform with a custom admin panel. Integrated KeyCRM for order management, Monobank API for payments, Cloudinary, and Resend. Deep SEO and SSR architecture.",
+    "proj4_title": "Share Registry Platform",
+    "proj4_desc": "Large-scale B2B system for managing share registries and compliance. Split into two web apps within a TypeScript monorepo (Turborepo). Developed a shared UI library, complex form flows, and auto-generated API clients. Powerful FastAPI backend with Celery workers for database scraping."
+  }
+}

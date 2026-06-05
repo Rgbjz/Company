@@ -1,0 +1,52 @@
+{
+  "Index": {
+    "title": "IT Компанія - Інноваційні рішення",
+    "description": "Ми створюємо майбутнє за допомогою коду."
+  },
+  "Hero": {
+    "title1": "ВЕБ-РОЗРОБКА.",
+    "title2": "SEO.",
+    "title3": "ДИЗАЙН.",
+    "description": "Ми створюємо цифрові екосистеми, що трансформують бренди. Високопродуктивний код, інтелектуальний SEO та візуальна досконалість в одному рішенні.",
+    "btnPrimary": "Замовити оцінку",
+    "btnSecondary": "Портфоліо"
+  },
+  "TechStack": {
+    "title": "Технологічний",
+    "titleHighlight": "Стек",
+    "ui_ux": "UI/UX Дизайн",
+    "frontend": "FrontEnd",
+    "backend": "BackEnd",
+    "devops": "DevOps",
+    "seo": "SEO Оптимізація",
+    "blockchain": "Блокчейн",
+    "badges": {
+      "analytics": "Аналітика",
+      "tech_seo": "Технічне SEO",
+      "web_vitals": "Web Vitals",
+      "copywriting": "Копірайтинг",
+      "smart_contracts": "Смарт-контракти"
+    }
+  },
+  "Navigation": {
+    "home": "Головна",
+    "services": "Послуги",
+    "portfolio": "Портфоліо",
+    "contact": "Контакти",
+    "getStarted": "Почати"
+  },
+  "Portfolio": {
+    "label": "Портфоліо",
+    "title_1": "Проєкти, якими",
+    "title_2": "ми пишаємося",
+    "view_all": "Дивитися всі роботи",
+    "proj1_title": "Play-to-Earn Telegram Гра",
+    "proj1_desc": "Web3-гра, що увійшла до <bold>Top-10 Telegram</bold>. Розробка core-механік, live-мультиплеєра та складної внутрішньої економіки. Інтеграція TON для трейдингу, депозитів та виведення токенів.",
+    "proj2_title": "Платформа автолізингу",
+    "proj2_desc": "Швейцарська платформа автолізингу. B2C-воронка (калькулятор ставок, e-signature, KYC) та повноцінний B2B бек-офіс для дилерів і банків.",
+    "proj3_title": "Багатомовна E-commerce",
+    "proj3_desc": "Bilingual e-commerce платформа з кастомною адмінкою. Інтеграція KeyCRM для управління замовленнями, Monobank API для оплат, Cloudinary та Resend. Глибоке SEO та SSR архітектура.",
+    "proj4_title": "Share Registry Platform",
+    "proj4_desc": "Масштабна B2B-система управління реєстрами акцій та комплаєнсом. Продукт розбитий на два веб-додатки всередині TypeScript-монорепозиторію (Turborepo). Розроблена спільна UI-бібліотека, складні потоки форм та автогенеровані API-клієнти. Потужний backend на FastAPI з пулом воркерів Celery для парсингу баз даних."
+  }
+}
