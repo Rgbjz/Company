@@ -47,9 +47,9 @@ export default function TechStack() {
   const t = useTranslations('TechStack'); // <-- Подключаем переводы
 
   return (
-    <section className="relative w-full pt-32 pb-24 bg-black overflow-hidden scroll-mt-20 lg:scroll-mt-24" id="services">
+    <section className="relative w-full pt-24 sm:pt-32 pb-20 sm:pb-24 bg-black overflow-hidden scroll-mt-20 lg:scroll-mt-24" id="services">
       <div className="container mx-auto px-6 md:px-12 lg:px-24">
-        
+
         <div className="mb-12 md:mb-16 text-center md:text-left">
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight break-words">
             {t('title')}{' '}
@@ -183,7 +183,7 @@ export default function TechStack() {
           </div>
 
           {/* ПРАВАЯ КОЛОНКА: Огромная 3D Цепь */}
-          <div className="w-full lg:w-[40%] xl:w-[35%] min-h-[550px] xl:min-h-full relative flex items-center justify-center overflow-hidden rounded-3xl">
+          <div className="w-full lg:w-[40%] xl:w-[35%] min-h-[400px] sm:min-h-[500px] lg:min-h-[550px] xl:min-h-full relative flex items-center justify-center overflow-hidden rounded-3xl">
             <div className="absolute inset-0 bg-white/5 blur-[120px] rounded-full pointer-events-none" />
             <div className="w-full h-full absolute inset-0 z-10">
               <iframe

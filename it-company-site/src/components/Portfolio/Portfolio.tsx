@@ -20,7 +20,7 @@ export default function Portfolio() {
   const t = useTranslations('Portfolio'); // <-- Подключаем переводы
 
   return (
-    <section className="relative w-full pt-32 pb-24 bg-black overflow-hidden scroll-mt-20 lg:scroll-mt-24" id="portfolio">
+    <section className="relative w-full pt-24 sm:pt-32 pb-20 sm:pb-24 bg-black overflow-hidden scroll-mt-20 lg:scroll-mt-24" id="portfolio">
       <div className="container mx-auto px-6 md:px-12 lg:px-24">
         
         {/* ЗАГОЛОВОК */}
@@ -46,7 +46,7 @@ export default function Portfolio() {
             
             {/* ЛЕВАЯ КОЛОНКА: Telegram Игра */}
             <div className="w-full lg:w-[60%] flex flex-col gap-8">
-              <div className="flex-1 group relative p-8 rounded-3xl bg-white/[0.02] border border-white/10 hover:bg-white transition-all duration-500 flex flex-col items-start gap-8 overflow-hidden">
+              <div className="flex-1 group relative p-6 sm:p-8 rounded-3xl bg-white/[0.02] border border-white/10 hover:bg-white transition-all duration-500 flex flex-col items-start gap-8 overflow-hidden">
                 <div className="absolute top-5 right-5 w-3 h-3 rounded-full border border-white/20 bg-white/5 group-hover:bg-black group-hover:border-black transition-all duration-500" />
                 
                 {/* ПРЕВЬЮ */}
