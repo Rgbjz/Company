@@ -36,7 +36,7 @@ export default async function RootLayout({
       lang={locale}
       className={`${geistSans.variable} ${geistMono.variable} antialiased`}
     >
-      <body className="relative min-h-screen bg-black">
+      <body className="relative min-h-screen bg-black overflow-x-hidden">
         <Background3D />
         
         <NextIntlClientProvider locale={locale} messages={messages}>
