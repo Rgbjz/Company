@@ -32,8 +32,43 @@
     "home": "Home",
     "services": "Services",
     "portfolio": "Portfolio",
+    "team": "Team",
     "contact": "Contact",
     "getStarted": "Get Started"
+  },
+  "Team": {
+    "title": "Our",
+    "titleHighlight": "Team",
+    "subtitle": "The people who turn ideas into products. A small team — a big impact.",
+    "viewProfile": "View profile",
+    "m1_name": "Oleksandr Koval",
+    "m1_role": "Founder & CEO",
+    "m2_name": "Iryna Melnyk",
+    "m2_role": "Lead Frontend",
+    "m3_name": "Dmytro Bondar",
+    "m3_role": "Backend Engineer",
+    "m4_name": "Sofia Tkachenko",
+    "m4_role": "UI/UX Designer",
+    "m5_name": "Andrii Shevchenko",
+    "m5_role": "DevOps Engineer",
+    "m6_name": "Maria Polishchuk",
+    "m6_role": "SEO Specialist"
+  },
+  "Footer": {
+    "tagline": "We craft digital products that move business forward.",
+    "navTitle": "Navigation",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "email": "hello@logotype.com",
+    "location": "Kyiv, Ukraine",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with ❤️ in Ukraine",
+    "services": {
+      "web": "Web Development",
+      "design": "UI/UX Design",
+      "seo": "SEO Optimization",
+      "blockchain": "Blockchain"
+    }
   },
   "Portfolio": {
     "label": "Portfolio",

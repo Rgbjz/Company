@@ -32,8 +32,43 @@
     "home": "Головна",
     "services": "Послуги",
     "portfolio": "Портфоліо",
+    "team": "Команда",
     "contact": "Контакти",
     "getStarted": "Почати"
+  },
+  "Team": {
+    "title": "Наша",
+    "titleHighlight": "Команда",
+    "subtitle": "Люди, які перетворюють ідеї на продукти. Маленька команда — великий результат.",
+    "viewProfile": "Дивитися профіль",
+    "m1_name": "Олександр Коваль",
+    "m1_role": "Засновник & CEO",
+    "m2_name": "Ірина Мельник",
+    "m2_role": "Lead Frontend",
+    "m3_name": "Дмитро Бондар",
+    "m3_role": "Backend Engineer",
+    "m4_name": "Софія Ткаченко",
+    "m4_role": "UI/UX Дизайнер",
+    "m5_name": "Андрій Шевченко",
+    "m5_role": "DevOps Engineer",
+    "m6_name": "Марія Поліщук",
+    "m6_role": "SEO Спеціаліст"
+  },
+  "Footer": {
+    "tagline": "Створюємо цифрові продукти, що рухають бізнес вперед.",
+    "navTitle": "Навігація",
+    "servicesTitle": "Послуги",
+    "contactTitle": "Контакти",
+    "email": "hello@logotype.com",
+    "location": "Київ, Україна",
+    "rights": "Всі права захищені.",
+    "madeWith": "Зроблено з ❤️ в Україні",
+    "services": {
+      "web": "Веб-розробка",
+      "design": "UI/UX Дизайн",
+      "seo": "SEO Оптимізація",
+      "blockchain": "Блокчейн"
+    }
   },
   "Portfolio": {
     "label": "Портфоліо",

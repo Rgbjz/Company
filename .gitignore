@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+
+# Raw source assets that must NOT be published (personal data / huge files)
+/*.MOV
+/*.mp4
+/*.jpg
+/*.jpeg
+/*.png
+/*.pdf
